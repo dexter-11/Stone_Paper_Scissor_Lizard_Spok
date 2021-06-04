@@ -13,5 +13,3 @@ An extended version of stone paper scissor. Being worked upon as of now to bring
 When you know someone well enough, 75-80% of any Rock-Paper-Scissors games you play with that person end up in a tie. Well,so this is a slight variation that reduces that probability. 
 
 ## Other people working on this - [_Mekhla_](https://github.com/meks-0202)
-
-
