@@ -1,6 +1,6 @@
 # Stone Paper Scissor Lizard Spok
 
-### This is the game invented by non other than **Sheldon Cooper** from the popular TV sitcom _'The Big Bang Theory'_.
+### This is the game popularized by non other than **Sheldon Cooper** from the popular TV sitcom _'The Big Bang Theory'_.
 
 As Sheldon explains, 
 ```
